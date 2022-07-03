@@ -75,5 +75,6 @@ Here are some ideas to get you started:
 
 <!-- ### 👻 My Top Langs
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavinPark&langs_count=8&theme=radical" />  -->
-
+<!-- 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=100&section=footer)
+-->
