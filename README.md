@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Eunji Park who's interested in front-end development and studying hard!
 
-<a href="https://savinpark.github.io/portfolio/">
+<a href="https://savinpark.github.io/portfolio/" target="_blank">
   <img align="left" alt="Savin's Velog" width="24px" src="https://user-images.githubusercontent.com/80046101/173625567-805ca24d-d05b-4b64-bc25-8e6c77da33ea.png" />
 </a>
-<a href="mailto:savinpark0315@gmail.com">
-  <img align="left" alt="Savin's Velog" width="24px" src="https://user-images.githubusercontent.com/80046101/173622875-ac7f7f6c-5606-4641-b8b6-113a63b2250a.png" />
-</a>
-<a href="https://www.notion.so/EUNJI-PARK-bbd411984c9c40b881930c914dcc5374">
+<a href="https://www.notion.so/EUNJI-PARK-bbd411984c9c40b881930c914dcc5374" target="_blank">
   <img align="left" alt="Savin's Notion" width="22px" src="https://user-images.githubusercontent.com/80046101/173622086-15128298-5dde-4836-a5a9-8ab11ba1e63b.png" />
+</a>
+<a href="mailto:savinpark0315@gmail.com" target="_blank">
+  <img align="left" alt="Savin's Velog" width="24px" src="https://user-images.githubusercontent.com/80046101/173622875-ac7f7f6c-5606-4641-b8b6-113a63b2250a.png" />
 </a>
 <!--
 <a href="https://velog.io/@savin">
@@ -50,8 +50,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 
 ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
+<!-- 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+-->
 ![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white) 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
