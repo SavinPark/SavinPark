@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <a href="mailto:savinpark0315@gmail.com">
   <img align="left" alt="Savin's Velog" width="24px" src="https://user-images.githubusercontent.com/80046101/173622875-ac7f7f6c-5606-4641-b8b6-113a63b2250a.png" />
 </a>
-<!--
-<a href="https://www.notion.so/Eunji-Park-s-Notion-e02a22c89dfc4c66a3d34082115f47bb">
+<a href="https://www.notion.so/EUNJI-PARK-bbd411984c9c40b881930c914dcc5374">
   <img align="left" alt="Savin's Notion" width="22px" src="https://user-images.githubusercontent.com/80046101/173622086-15128298-5dde-4836-a5a9-8ab11ba1e63b.png" />
 </a>
+<!--
 <a href="https://velog.io/@savin">
   <img align="left" alt="Savin's Velog" width="22px" src="https://user-images.githubusercontent.com/80046101/173622401-0c3941e2-477e-4993-a0ea-89a8b20716c8.png" />
 </a>
