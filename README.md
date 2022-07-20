@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-3178C6?style=flat-square&logo=Next.js&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 <!-- 
 ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
 -->
