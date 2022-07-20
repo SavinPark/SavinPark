@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white) 
 ![](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Semantic_UI_React-35BDB2?style=flat-square&logo=/SemanticUI&logoColor=white)
+![](https://img.shields.io/badge/Semantic_UI_React-35BDB2?style=flat-square&logo=Semantic_UI_React&logoColor=white)
 
 <!-- 
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
